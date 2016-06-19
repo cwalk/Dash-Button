@@ -2,6 +2,10 @@
 
 The idea behind this repo was to determine when an Amazon Dash Button was pressed, and perform some sort of action.
 
+## YouTube
+
+YouTube: https://www.youtube.com/watch?v=xSc5uhywWWQ&feature=youtu.be
+
 ## Setup
 
 First, continue through step 5 on the official Amazon dash button setup instructions: https://www.amazon.com/gp/help/customer/display.html?nodeId=201746340
