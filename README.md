@@ -23,3 +23,5 @@ You may have to install scapy, libnet, and pcapy before you are able to run the 
 ## Other
 
 From what I've determined, it takes 45 seconds before you can press the Dash again.
+
+The libraries I needed to install on my Mac were: `pylibpcap-0.6.4`, `libdnet-1.12`, and `scapy-2.3.2`
